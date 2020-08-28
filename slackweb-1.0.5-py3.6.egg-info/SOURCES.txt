@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+slackweb/__init__.py
+slackweb/slackweb.py
+slackweb.egg-info/PKG-INFO
+slackweb.egg-info/SOURCES.txt
+slackweb.egg-info/dependency_links.txt
+slackweb.egg-info/top_level.txt
